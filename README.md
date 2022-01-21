@@ -2,7 +2,7 @@
 ---
 ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 ## INSTRUCTIONS
-This project is designed to take to allow user to create, edit and delete data in an existing database. 
+This project is designed to allow the user to view different departments, employees and job roles in a backend application. By booting up the application, you will be presented with an interface that allows you to update and add roles, departments and employees to an existing (or new) database. 
 
 ## Table of Contents
 *[Installation:] (#installation)
@@ -13,17 +13,17 @@ This project is designed to take to allow user to create, edit and delete data i
 *[Questions?](#questions)
 
 ## Installation
-To install this app so that it functions properly, open the integrated terminal tied to the current project folder, then run 'npm install' in your terminal. This should download all necessary packages.
+To install this app so that it functions properly, clone my github repository, open the integrated terminal tied to the current project folder, then run 'npm install' in your terminal. This should download all necessary packages. Then in the db folder's intergrated terminal, sign in to your sql interface; source both the schema and seeds folder. Your database is now pre-populated.
 
 ## Usage
-You can use this project to allow users to add new products, tags, and categories to a dataset. These can be used to help sort and find products based on product names, products based on category, by price or by stock. The user will setup a server using the npm packages Node and Sequelize to build and modify the database. Insomonia is used to test the different user requests.
+You can use this project to allow users to add new departments, roles, and employees to a database. These can be used to help sort and find employees based on department, role or manager names.
 
 ## Example
-Here you can see some key elements within the code, that ensures that these objects are possible to create, that the path is being directed to the right location and how the these different data sets relate to one another:
+Here you can see some key elements within the code, that ensures that these objects are possible to create, that the path is being directed to the right location and how the these different data tables relate to one another:
 
-![model set up](images/model.png)
-![grabbing the data](images/getroutes.png)
-![tangling the spaghetti](images/spaghetti.png)
+![model set up](images/schema.png)
+![grabbing the data](images/function.png)
+![seeding the database](images/seeds.png)
 
  # License
             This project is license under the MIT license
@@ -33,9 +33,9 @@ Here you can see some key elements within the code, that ensures that these obje
 Users can contribute to this project by playing with the code given and identifying more elaborate features that can be added to this program!
 
 ## Tests
-This project can be tested by installing the necessary packages, seeding the database then running the program on your local server to be tested via insomnia, postman or tools alike.
+This project can be tested by installing the necessary packages, seeding the database then running the program on your local environment to be tested via your intergrated terminal or tools alike such as gitbash or windows powershell.
 
-You can find a walkthrough tutorial of me testing the application via the YouTube link: (https://youtu.be/jg5YVzsNnmk)
+You can find a walkthrough tutorial of me testing the application via the YouTube link: (https://youtu.be/-gpbwxzO6Mk)
 
 ## Questions
 
