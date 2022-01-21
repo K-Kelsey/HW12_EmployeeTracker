@@ -1,3 +1,5 @@
+USE employeelist_db;
+
 INSERT INTO department (name)
 VALUES ("Game Design"),
        ("Data Science"),
