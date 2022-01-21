@@ -37,7 +37,7 @@ This project can be tested by installing the necessary packages, seeding the dat
 
 You can find a walkthrough tutorial of me testing the application via the YouTube link: (https://youtu.be/-gpbwxzO6Mk)
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/-gpbwxzO6Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gpbwxzO6Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Questions
 
